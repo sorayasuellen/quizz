@@ -28,12 +28,12 @@ export const perguntas = [
                 afirmacao: [
                     "Conseguiu achar um cabide de metal forte o suficiente para se defender de algum modo.",
                     "Percebeu que os passos por um breve momento pararam e no fundo apenas uma respiração ofegante .",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "você com medo do que estava prestes a acontecer decide procurar um lugar para se esconder assim achando uma rachadura grande o suficiente embaixo da cama o levando para um local subterraneo ."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "afim de não se perder pelos cômodos do local você decide ir fazendo marcações com ranhuras nas paredes com  o cabide que estava em suas moẽs.",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
