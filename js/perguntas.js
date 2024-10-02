@@ -13,21 +13,21 @@ export const perguntas = [
             {
                 texto: "levanto e começo a vasculhar o quarto estranho",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Quis saber como sair dali mas a curiosidade tomou conta.",
+                    "Pensou que acharia algo surprendente e queria descobrir sobre tudo."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "você começou a escutar um barulho na sala ao lado e se sentiu aterrorrizado e com base nos segundos passando o barulho estava mais perto e alto. Qual atitude você toma?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "você procura por objetos que pode se defender e servir como escudo e fazendo o minimo de barulhos possiveis.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
+                    "Conseguiu achar um cabide de metal forte o suficiente para se defender de algum modo.",
+                    "Percebeu que os passos por um breve momento pararam e no fundo apenas uma respiração ofegante .",
                     "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
                 ],
                 proxima: 3,
